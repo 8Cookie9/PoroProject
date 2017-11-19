@@ -1,0 +1,7 @@
+com\poroproject\enitities\Poro.class
+com\poroproject\repositories\AccountRepository.class
+com\poroproject\repositories\PoroRepository.class
+com\poroproject\enitities\Account.class
+com\poroproject\App.class
+com\poroproject\services\PoroService.class
+com\poroproject\controllers\PoroController.class
